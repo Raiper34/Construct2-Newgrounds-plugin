@@ -11,3 +11,5 @@ Do not minify script!
 ---------------------
 
 There is only 2 actions in this plugin, but if API on newgrounds will be updated, I update it too ;)
+
+Used this html5 API, thanks for it: http://www.newgrounds.com/projects/games/646548/preview
