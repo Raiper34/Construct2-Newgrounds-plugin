@@ -2,9 +2,9 @@
 
 How to add this to your HTML5 game:
 ----------------------------------
-1. Create a new Newgrounds Game Project
+1. Create a new Newgrounds Game Project  
 And in Construct: 
-1. Start API (it tooks usually sec, and plugin does not return anything, so you can wait) 
+1. Start API (it tooks usually sec, and plugin does not return anything, so you need to wait) 
 2. Unlockmedal.
 
 Do not minify script!
